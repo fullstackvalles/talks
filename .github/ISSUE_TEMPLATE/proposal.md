@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+_Omple la issue en l'idioma que vols fer la xerrada (català, castellà o anglès)_
+
 ## Títol
 _El títol de la teva xerrada_
 
